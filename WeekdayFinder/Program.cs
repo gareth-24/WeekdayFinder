@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using ProjectName.Models;
+using WeekdayFinder.Models;
 
-namespace ProjectName 
+namespace WeekdayFinder
 {
   public class Program
   {

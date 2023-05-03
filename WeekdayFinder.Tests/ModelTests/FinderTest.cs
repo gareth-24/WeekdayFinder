@@ -1,4 +1,4 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ClassName.Models;
+using WeekdayFinder.Models;
 using System.Collections.Generic;
 using System;
